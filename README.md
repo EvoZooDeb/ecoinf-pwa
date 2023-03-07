@@ -1,2 +1,2 @@
 # ecoinf-pwa
-Egyszerű térképes adatgyűjtő PWA alkalmazás az OenBioMaps-hoz
+Egyszerű térképes adatgyűjtő PWA alkalmazás az OpenBioMaps-hoz

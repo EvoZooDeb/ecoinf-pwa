@@ -71,19 +71,19 @@ $minDistanceInput = 1;
     <button onclick='filter()' class='pure-button button-secondary' style='color:#fffb2a'>filter</button>
     <button onclick='clearF()' class='pure-button button-warning'>clear</button>
   </div>
-<div id="myAuthModal" class="modal">
-<div class="modal-content">
-    <span class="close" onclick="Close('myAuthModal')">&times;</span>
-    <form method='post' id='authbox' name='authbox'>
-    <label for='username'>Username: </label><br><input name='username' id='username' class='' autocomplete="username">
-    <br>
-    <br>
-    <label for='password'>Password: </label><br><input type='password' name='password' id='password' class='' autocomplete="current-password">
-    <br><br>
-    <button id='sendLogIn' class='pure-button button-xlarge button-success'>Log in</button>
-    </form>
-</div>
-</div>
+<!-- <div id="myAuthModal" class="modal">
+    <div class="modal-content">
+        <span class="close" onclick="Close('myAuthModal')">&times;</span>
+        <form method='post' id='authbox' name='authbox'>
+        <label for='username'>Username: </label><br><input name='username' id='username' class='' autocomplete="username">
+        <br>
+        <br>
+        <label for='password'>Password: </label><br><input type='password' name='password' id='password' class='' autocomplete="current-password">
+        <br><br>
+        <button id='sendLogIn' class='pure-button button-xlarge button-success'>Log in</button>
+        </form>
+    </div>
+</div> -->
 
     <!--
     <div>
